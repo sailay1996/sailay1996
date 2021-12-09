@@ -12,6 +12,19 @@ You can also find me on [Twitter](https://twitter.com/404death) and [LinkedIn](h
     <a href="https://github.com/sailay1996"><img src="https://img.shields.io/github/followers/sailay1996?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=1a1a1a&color=802000"></a>
 </p>
 
+---
+
+<p align="center">
+
+<a href="https://github.com/sailay1996/sailay1996">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sailay1996&include_all_commits=true&custom_title=Valen's+GitHub+Stats&hide=contribs&show_icons=true&line_height=32&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=b32d00&bg_color=1a1a1a" />
+</a>
+
+<a href="https://github.com/sailay1996/sailay1996">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sailay1996&hide_title=false&exclude_repo=null&langs_count=3&layout=default&hide_border=false&bg_color=1a1a1a&text_color=c9cacc&title_color=ffffff" />
+</a>
+
+</p>
 
 <!--
 **sailay1996/sailay1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
