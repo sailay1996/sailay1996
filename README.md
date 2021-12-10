@@ -13,7 +13,6 @@ You can also find me on [Twitter](https://twitter.com/404death) and [LinkedIn](h
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sailay1996&label=Profile%20views&color=0e75b6&style=flat" alt="sailay1996" /> </p>
-<br>
 
 ---
 
