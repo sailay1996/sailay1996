@@ -2,7 +2,7 @@
 <!-- 
 Birth Name : Sai Wynn Myat 
 -->
-I am security engineer who interested in both the defensive and offensive sides by day. I also do some windows security research, develop tools and hunting bugs at Synack Red Team, and Hacker1 by night. And, I am one of thems who loving to slove the brainfuck challenges. Learning about new technical things is my hobby. 
+I am security engineer who interested in both the defensive and offensive sides by day. I also do some windows security research, develop tools and hunting bugs at Synack Red Team, and Hacker1 by night. And, I am one of thems who loving to solve the brainfuck challenges. Learning about new technical things is my hobby. 
 You can also find me on [Twitter](https://twitter.com/404death) and [LinkedIn](https://www.linkedin.com/in/sailay1996/).
 
 ##### - Valen also known as sailay
