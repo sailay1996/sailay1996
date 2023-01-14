@@ -23,7 +23,7 @@ You can also find me on [Twitter](https://twitter.com/404death) and [LinkedIn](h
 </a>
 
 <a href="https://github.com/sailay1996/sailay1996">
-  <img align="center" src="aa" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sailay1996&hide_title=false&exclude_repo=null&langs_count=3&layout=default&hide_border=false&bg_color=1a1a1a&text_color=c9cacc&title_color=ffffff" />
 </a>
 </p>
 
