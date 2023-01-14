@@ -19,7 +19,7 @@ You can also find me on [Twitter](https://twitter.com/404death) and [LinkedIn](h
 <p align="center">
 
 <a href="https://github.com/sailay1996/sailay1996">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sailay1996&include_all_commits=true&custom_title=Valen's+GitHub+Stats&hide=contribs&show_icons=true&line_height=32&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=b32d00&bg_color=1a1a1a" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sailay1996&show_icons=true&theme=dark" />
 </a>
 
 <a href="https://github.com/sailay1996/sailay1996">
