@@ -21,10 +21,11 @@ You can also find me on [Twitter](https://twitter.com/404death) and [LinkedIn](h
 <a href="https://github.com/sailay1996/sailay1996">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sailay1996&show_icons=true&theme=dark" />
 </a>
-
+<!--
 <a href="https://github.com/sailay1996/sailay1996">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sailay1996"/>
 </a>
+-->
 </p>
 
 <!--
