@@ -11,7 +11,7 @@ Birth Name : Sai Wynn Myat
     <a href="https://x.com/404death"><img src="https://img.shields.io/twitter/follow/404death?style=&logo=twitter&logoColor=ffffff&labelColor=1a1a1a"></a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sailay1996&label=Profile%20views&color=0e75b6&style=flat" alt="sailay1996" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sailay1996&label=Profile%20views&color=000000&style=flat" alt="sailay1996" /> </p>
 
 ---
 
