@@ -4,9 +4,7 @@ Birth Name : Sai Wynn Myat
 -->
 [Now You See Me ?](https://n0wyousee.me/)
 <br></br>
-[@Blackhat Asia 2024](https://www.blackhat.com/asia-24/arsenal/schedule/presenters.html#valen-sai-47645)
-<br>
-[@Blackhat Asia 2026](https://blackhat.com/asia-26/arsenal/schedule/presenters.html#valen-sai-47645)
+
 <!-- ##### - Valen also known as sailay
 -->
 <p align="center">
@@ -32,16 +30,6 @@ Birth Name : Sai Wynn Myat
 <!--
 **sailay1996/sailay1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 
